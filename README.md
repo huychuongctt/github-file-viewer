@@ -3,3 +3,4 @@ Github can view some of file types:
 * Tabular: .csv, .tsv
 * 3D model: .stl
 * Geographic data: .geojson
+* PDF: .pdf
